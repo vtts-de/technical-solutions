@@ -3,6 +3,7 @@ title: "new day new chance"
 description: "in diesem Post geht es um Produktivität."
 pubDate: "Jun 15 2025"
 heroImage: "/blog-placeholder-1.jpg"
+---
 
 > **Vadim** spielt nicht gerne
 > wie funktioniert das?
